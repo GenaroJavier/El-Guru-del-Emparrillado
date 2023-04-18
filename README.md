@@ -1,4 +1,4 @@
-# Guru-del-Emparrillado
+# Gurú del Emparrillado
 
 Gurú del Emparrillado es un proyecto de página web dedicada a realizar predicciones de los partidos de la NFL. El objetivo principal de este proyecto es proporcionar a los fanáticos de la NFL una herramienta fácil de usar y accesible que les permita realizar sus propias predicciones sobre los partidos de su equipo favorito.
 
